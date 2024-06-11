@@ -13,9 +13,10 @@ Este curso intensivo de 11 semanas traz um novo desafio a cada semana. Nesta sem
 
 Para não complicar demais, foquei em um MVP mapeando apenas as posições corretas em uma única rotação. Imagina só se eu deixasse inverter e rotacionar as peças? Teria dezenas de combinações para mapear! Foi aí que o Scrum me salvou kkkk (Tmj Scrum 👊)
 
-Confira o quebra-cabeça Tangram abaixo:
+## Confira o quebra-cabeça Tangram abaixo:
+[Clique aqui para jogar](https://scratch.mit.edu/projects/1032192720/)
 
-<iframe src="https://scratch.mit.edu/projects/1032192720/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+![GIF do Jogo Tangram](sprites/tangram.gif)
 
 Agora é hora de iniciar a próxima semana de estudos e me preparar para os próximos desafios.
 
@@ -27,4 +28,3 @@ Agora é hora de iniciar a próxima semana de estudos e me preparar para os pró
 ## Licença
 
 Este projeto é licenciado sob os termos da licença MIT.
-
